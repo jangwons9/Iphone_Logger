@@ -25,4 +25,5 @@ This repository contains the main `ViewController.swift` file for an iPhone app 
 This repository only includes the `ViewController.swift` file. To build the full app, additional project files such as `AppDelegate.swift`, `Info.plist`, and the `.xcodeproj` are required.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
