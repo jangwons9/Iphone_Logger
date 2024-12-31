@@ -1,6 +1,6 @@
 # iPhone Trajectory Logger - ViewController
 
-This repository contains the main `ViewController.swift` file for an iPhone app designed to log IMU data (gyroscope and accelerometer) and capture video frames. The app is compatible with iOS devices and uses the CoreMotion and AVFoundation frameworks.
+This repository contains the main `ViewController.swift` file for an iPhone app designed to log IMU data (gyroscope and accelerometer) and capture video frames.
 
 ## Features
 - Logs gyroscope and accelerometer data at high frequency (200Hz).
@@ -11,8 +11,6 @@ This repository contains the main `ViewController.swift` file for an iPhone app 
 - **ViewController.swift**: Implements the core functionality for IMU data logging, video capture, and file storage.
 
 ## Requirements
-- iOS 14.0 or later.
-- Xcode 14.0 or later.
 - CoreMotion and AVFoundation frameworks.
 
 ## Usage
